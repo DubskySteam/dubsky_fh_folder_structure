@@ -6,7 +6,7 @@ import os, sys
 ###########################################################
 
 #>> Diesen Pfad anpassen
-path = 'c:/users/dubsky/desktop/'
+path = 'YOUR PATH'
 #>> Anzahl der Ordner
 targetx = 14
 
