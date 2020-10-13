@@ -1,2 +1,9 @@
-# dubsky_fh_folder_structure
-Python Skript für eine Ordnerstruktur
+# < Uni Ordnerstruktur >
+
+### Ordnerstruktur im Moment
+
+* Uni Stuff
+* -> Mathe-Vorkurs
+* - -> Tag X
+* - - -> Anaconda
+* - - -> PDF
